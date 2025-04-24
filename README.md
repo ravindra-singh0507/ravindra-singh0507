@@ -63,7 +63,7 @@
 ### 🧰 Dev Setup
 
 - 💻 OS: Ubuntu 22.04 / Windows 11
-- 💻 Code Editor: VS Code + IntelliJ IDEA + Ec;ipse
+- 💻 Code Editor: VS Code + IntelliJ IDEA + Eclipse
 - 💻 Terminal:  Windows Terminal
 - 📂 Version Control: Git + GitHub
 - ☁️ Tools: Postman, Docker, Wireshark
