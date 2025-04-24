@@ -13,10 +13,10 @@
   <a href="mailto:bt22cse195@iiitn.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ravindrapratapsinghchouhan/" target="_blank">
+  <a href="https://www.linkedin.com/in/ravindra-chouhan575/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/ravindra_iiitn/" target="_blank">
+  <a href="https://leetcode.com/u/rpsc57/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </div>
